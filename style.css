@@ -1,0 +1,74 @@
+p {
+    color: rgb(34, 34, 180);
+    font-size: 25px;
+}
+
+h1 {
+    color: navy;
+    font-size: 40px;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2 {
+    color: purple;
+}
+
+body {
+    background-color: grey;
+    font-family:'Times New Roman', Times, serif;
+}
+
+/* change style of list points */
+li {
+    list-style-type: disc;
+    
+}
+
+a {
+    background-color: aliceblue;
+    color: royalblue;
+    text-decoration: none;
+}
+
+ul {
+    background-color: azure;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th {
+    color: darkslategrey;
+}
+
+td {
+    color: rgb(0, 66, 128);
+}
+
+#most-favorite {
+    background-color: rgb(238, 123, 223);
+    text-decoration: dotted;
+}
+
+.second-favorite {
+    background-color: rgb(148, 204, 230);
+    text-decoration: underline;
+}
+
+#page-title {
+    text-shadow: 4px 4px rgb(88, 235, 186);
+}
+
+#favorite-music-name {
+    background-color: rgb(2, 2, 2);
+    color: white;
+}
+
+.favorite-section {
+    background-color: white;
+    border: 4px black double;
+    margin: 10px;
+    padding: 15px;
+}
